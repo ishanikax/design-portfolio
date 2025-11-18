@@ -9,3 +9,7 @@ All designs, images, and written content are © 2025 ishanikax. Redistribution, 
 
 # How to Access the Design Portfolio
 Click on the link at the top titled “Design-Portfolio.pdf” located at the top of the files. This will open the full portfolio for viewing.
+
+![Instruction-1](./Instruction-1.png)
+![Instruction-2](./Instruction-2.png)
+
