@@ -8,4 +8,4 @@ This repository contains my design portfolio, showcasing UI design, digital illu
 All designs, images, and written content are © 2025 ishanikax. Redistribution, modification, or reuse of any content is strictly prohibited.
 
 # How to Access the Design Portfolio
-Click on the link at the top titled “Design-Portfolio” located above the README. This will open the full portfolio for viewing.
+Click on the link at the top titled “Design-Portfolio.pdf” located above the README. This will open the full portfolio for viewing.
