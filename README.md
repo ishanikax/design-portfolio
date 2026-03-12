@@ -1,4 +1,4 @@
-# ✧.* Welcome to my Design Portfolio! ✧.*
+# Welcome to my Design Portfolio!
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVmNTA3YW1uNzFnZjc0NHBrZGhxaG5jdnJzaTQ2cmFsNndrZmd6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/990yI6IQOUvHcfPX4d/giphy.gif" width="100" alt="Flying bat">
 </p>
