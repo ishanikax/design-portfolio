@@ -1,6 +1,6 @@
 # ✧.* Welcome to my Design Portfolio! ✧.*
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Y5cXBzYnAwazd5dzFnY2c2cjQ5MWZpb3ljdzV0MTF0cGE5dWEwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YMdqbt6oBXUQ0JDl8a/giphy.gif" width="100" alt="Flying bat">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVmNTA3YW1uNzFnZjc0NHBrZGhxaG5jdnJzaTQ2cmFsNndrZmd6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/990yI6IQOUvHcfPX4d/giphy.gif" width="100" alt="Flying bat">
 </p>
 
 NOTE: I’m currently refining my design portfolio, with an updated showcase coming soon.
