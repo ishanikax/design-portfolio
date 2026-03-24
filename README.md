@@ -3,7 +3,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVmNTA3YW1uNzFnZjc0NHBrZGhxaG5jdnJzaTQ2cmFsNndrZmd6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/990yI6IQOUvHcfPX4d/giphy.gif" width="100" alt="Flying bat">
 </p>
 
-This repository contains my design portfolio, showcasing UI design, digital illustrations, branding work, and visual communication projects. Every piece represents countless hours of exploration, iteration, and refinement. I am passionate about crafting design that feels intuitive, considered, and visually engaging, and I take pride in creating work that tells a clear story while reflecting strong technical and creative ability. This portfolio reflects my growth as a designer, my commitment to thoughtful visual problem solving, and my enthusiasm for creating meaningful and memorable digital experiences.
+This repository contains my design portfolio, showcasing UI design, digital illustrations, 3D design/modelling branding work, and visual communication projects. Every piece represents countless hours of exploration, iteration, and refinement. I am passionate about crafting design that feels intuitive, considered, and visually engaging, and I take pride in creating work that tells a clear story while reflecting strong technical and creative ability. This portfolio reflects my growth as a designer, my commitment to thoughtful visual problem solving, and my enthusiasm for creating meaningful and memorable digital experiences.
 
 All designs, images, and written content are © 2026 ishanikax. Redistribution, modification, or reuse of any content is strictly prohibited.
 
